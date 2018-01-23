@@ -7,4 +7,4 @@ These functions were designed to retrieve data from [FRED](https://fred.stlouisf
 
 `qFRED` returns a matrix with the data itself.
 
-More details [here]().
+More details [here](http://ordrespontane.blogspot.fr/2018/01/querying-fred-from-r.html).
